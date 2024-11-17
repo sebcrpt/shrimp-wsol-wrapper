@@ -38,8 +38,8 @@ Follow these steps to set up the project:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/solana-wsol-wrapper.git
-cd solana-wsol-wrapper
+git clone https://github.com/sebcrpt/shrimp-wsol-wrapper.git
+cd shrimp-wsol-wrapper
 
 2. Install Dependencies
 Install all required dependencies using pip:
